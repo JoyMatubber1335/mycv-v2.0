@@ -9,17 +9,17 @@ Content-Type: application/json
 
 
 ### get user by id
-GET http://localhost:3000/auth/3
+GET http://localhost:3000/auth/3545
 
 ### get all users
-GET http://localhost:3000/auth?email=joy@gmail.com
+GET http://localhost:3000/auth?email=joyfgfd@gmail.com
 
 
 ### Delete user
-DELETE http://localhost:3000/auth/2
+DELETE http://localhost:3000/auth/2444
 
 ### Update user
-PATCH  http://localhost:3000/auth/3
+PATCH  http://localhost:3000/auth/344
 Content-Type: application/json
 
 {
