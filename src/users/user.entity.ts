@@ -5,7 +5,7 @@ export class User {
   @PrimaryGeneratedColumn()
   id: number;
   @Column()
-  emial: string;
+  email: string;
   @Column()
   password: string;
 }
