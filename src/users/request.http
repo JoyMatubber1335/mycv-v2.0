@@ -9,10 +9,10 @@ Content-Type: application/json
 
 
 ### get user by id
-GET http://localhost:3000/auth/3545
+GET http://localhost:3000/auth/5
 
 ### get all users
-GET http://localhost:3000/auth?email=joyfgfd@gmail.com
+GET http://localhost:3000/auth?email=joy@gmail.com
 
 
 ### Delete user
